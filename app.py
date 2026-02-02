@@ -50,6 +50,7 @@ st.markdown("""
     .hof-card {
         background-color: #fce4ec; border-radius: 10px; padding: 15px;
         text-align: center; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 10px;
+        color: #333333; /* 다크모드에서도 글씨가 잘 보이도록 강제 설정 */
     }
     .hof-rank { font-size: 1.2rem; font-weight: bold; }
     .hof-name { font-size: 1.1rem; font-weight: 600; margin: 3px 0; }

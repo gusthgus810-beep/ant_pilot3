@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+st-gsheets-connection
+google-api-python-client
+google-auth
+cloudinary
